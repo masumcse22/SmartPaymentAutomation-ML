@@ -1,3 +1,7 @@
+
+![Payment Automation](images/https://www.techfunnel.com/wp-content/uploads/2021/12/Payments_Automation.png))
+
+
 # 🚀 Payment Automation with Machine Learning  
 
 **Revolutionize payment workflows with the power of machine learning!**  
