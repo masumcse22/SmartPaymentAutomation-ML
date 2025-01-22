@@ -1,8 +1,8 @@
-
-![Payment Automation](images/https://www.techfunnel.com/wp-content/uploads/2021/12/Payments_Automation.png))
-
-
 # 🚀 Payment Automation with Machine Learning  
+
+
+![Payment Automation](https://www.techfunnel.com/wp-content/uploads/2021/12/Payments_Automation.png)
+
 
 **Revolutionize payment workflows with the power of machine learning!**  
 This project automates payment processes, enhances accuracy, detects anomalies, and provides predictive insights to optimize financial operations. It's designed to simplify repetitive tasks and ensure seamless, secure transactions.  
