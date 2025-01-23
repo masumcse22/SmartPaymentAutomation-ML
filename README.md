@@ -42,7 +42,7 @@ Make sure you have Python 3.9+ installed.
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Payment-Automation-ML.git
+   git clone https://github.com/masumcse22/Payment-Automation-ML.git
    cd Payment-Automation-ML
    ```  
 2. Install the required libraries:  
